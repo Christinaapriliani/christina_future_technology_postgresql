@@ -1,0 +1,2 @@
+
+CREATE SEQUENCE EmployeeSeq START 1000;
